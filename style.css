@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-align: center;
+    padding: 8px 40px !important;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#home img {
+    padding: 0% 23%;
+}
+
+#home {
+    background: url(images/bg-curvy-desktop.svg);
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+
+#home h3,
+p {
+    color: white;
+    text-align: center;
+}
+
+#three h2 {
+    padding: 17% 0% 2% 0%;
+    text-align: left;
+    color: white;
+}
+
+#three p {
+    text-align: left;
+    color: white;
+}
+
+.my-div1 {
+    padding: 8% 10% !important;
+}
+
+.my-div2 {
+    padding: 5% 10% !important;
+}
+
+.card {
+    background: #343d47 !important;
+}
+
+#five .card-body {
+    background: #343d47 !important;
+}
+
+footer {
+    padding: 2% 3%;
+    background: #343d47 !important;
+}
